@@ -1,9 +1,3 @@
 <resources>
     <string name="app_name">LessonOne</string>
-    <string name="previous">Previous</string>
-    <string name="next">Next</string>
-    <string name="show">Show</string>
-    <string name="copy_object">Copy object</string>
-    <string name="run_loop">Run loop</string>
-    <string name="check_logcat">Check logcat</string>
 </resources>
